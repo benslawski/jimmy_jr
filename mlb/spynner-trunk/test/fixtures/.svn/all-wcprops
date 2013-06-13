@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/87/trunk/test/fixtures
+END
+test1.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/85/trunk/test/fixtures/test1.html
+END
+test2.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/87/trunk/test/fixtures/test2.html
+END
+test3.html
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/test/fixtures/test3.html
+END
+test.css
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/61/trunk/test/fixtures/test.css
+END
+protected.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/85/trunk/test/fixtures/protected.html
+END

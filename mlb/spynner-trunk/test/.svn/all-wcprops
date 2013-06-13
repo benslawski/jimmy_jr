@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/139/trunk/test
+END
+test_browser.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/139/trunk/test/test_browser.py
+END
+webserver.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/105/trunk/test/webserver.py
+END

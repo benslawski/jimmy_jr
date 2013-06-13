@@ -1,0 +1,7 @@
+color
+screen
+bitmap
+key
+autopy
+alert
+mouse
